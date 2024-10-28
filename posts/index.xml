@@ -2,17 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on School project</title>
-    <link>https://aleksandriukas.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on School project</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Oct 2024 14:32:59 +0200</lastBuildDate>
-    <atom:link href="https://aleksandriukas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Oct 2024 14:49:58 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/posts/image/</link>
+      <pubDate>Mon, 28 Oct 2024 14:49:58 +0200</pubDate>
+      <guid>http://localhost:1313/posts/image/</guid>
+      <description>&lt;h1 id=&#34;imagepage&#34;&gt;ImagePage&lt;/h1&gt;
+&lt;p&gt;Hello python&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.pixabay.com/photo/2024/04/15/01/47/ai-generated-8696587_640.png&#34; alt=&#34;Sample Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;(name):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;{&lt;/span&gt;name&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;!&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>NewPage</title>
-      <link>https://aleksandriukas.github.io/posts/newpage/</link>
+      <link>http://localhost:1313/posts/newpage/</link>
       <pubDate>Mon, 28 Oct 2024 14:32:59 +0200</pubDate>
-      <guid>https://aleksandriukas.github.io/posts/newpage/</guid>
+      <guid>http://localhost:1313/posts/newpage/</guid>
       <description>&lt;p&gt;Few sentences &amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
